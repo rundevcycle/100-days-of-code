@@ -21,3 +21,9 @@ My work is focussed on server-side development or back-end batch processing.  He
 ### Day 2: 2 November 2018
   - Created a sample webpage that captures the function keys (F1-F12) and overrides their default browser behaviour.  They can be used to trigger events within the page.
   - Published to GitHub pages: https://rundevcycle.github.io/js-keymapper/app.html
+
+### Day 3: 4 November 2018
+  - Clean up encapsulation of js-keymapper so it is a module with private properties.
+
+
+
