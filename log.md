@@ -25,5 +25,8 @@ My work is focussed on server-side development or back-end batch processing.  He
 ### Day 3: 4 November 2018
   - Clean up encapsulation of js-keymapper so it is a module with private properties.
 
+### Day 4: 5 November 2018
+  - Start another small project for JavaScript modules/classes with more properties.  
+  - Setting up `eslint` for verifying code quality.
 
 
