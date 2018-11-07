@@ -29,4 +29,8 @@ My work is focussed on server-side development or back-end batch processing.  He
   - Start another small project for JavaScript modules/classes with more properties.  
   - Setting up `eslint` for verifying code quality.
 
+### Day 5: 6 November 2018
+  - Adding more logic to JavaScript GS1 transcoder, applying what I've learned about strings and custom JS objects.
+
+
 
