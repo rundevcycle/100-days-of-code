@@ -32,5 +32,8 @@ My work is focussed on server-side development or back-end batch processing.  He
 ### Day 5: 6 November 2018
   - Adding more logic to JavaScript GS1 transcoder, applying what I've learned about strings and custom JS objects.
 
+### Day 6: 7 November 2018
+  - Add more logic to GS1 decode. 
+  - Adjusting ESlint rules.
 
 
