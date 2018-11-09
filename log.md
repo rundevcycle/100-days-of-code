@@ -36,4 +36,8 @@ My work is focussed on server-side development or back-end batch processing.  He
   - Add more logic to GS1 decode. 
   - Adjusting ESlint rules.
 
+### Day 7: 8 November 2018
+  - Looking into unit test frameworks for JavaScript.
+  - Tweak GS1 decode logic a bit more.
+  
 
