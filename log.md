@@ -39,5 +39,9 @@ My work is focussed on server-side development or back-end batch processing.  He
 ### Day 7: 8 November 2018
   - Looking into unit test frameworks for JavaScript.
   - Tweak GS1 decode logic a bit more.
-  
+
+### Day 8: 9 November 2018
+  - Start a new project for a jigsaw puzzle app.
+  - Having trouble getting eslint installed locally.  When it installs dependencies during eslint --init, 
+    it deletes the eslint binary from the node packages .bin folder.
 
