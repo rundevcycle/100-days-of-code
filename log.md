@@ -45,3 +45,7 @@ My work is focussed on server-side development or back-end batch processing.  He
   - Having trouble getting eslint installed locally.  When it installs dependencies during eslint --init, 
     it deletes the eslint binary from the node packages .bin folder.
 
+### Day 9: 10 November 2018
+  - Setting up gulp for the GS1 project.  
+  - Had to use gulp@next (4.0.0) due to high vulnerabilities with 3.9.1.
+
