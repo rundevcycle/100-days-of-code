@@ -49,3 +49,6 @@ My work is focussed on server-side development or back-end batch processing.  He
   - Setting up gulp for the GS1 project.  
   - Had to use gulp@next (4.0.0) due to high vulnerabilities with 3.9.1.
 
+### Day 10: 12 November 2018
+  - Adding mocha to GS1 project so I can start adding unit tests.
+  
