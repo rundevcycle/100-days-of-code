@@ -56,4 +56,8 @@ My work is focussed on server-side development or back-end batch processing.  He
   - Breaking GS1 project logic into modules.  
   - Using the modules allows for mocha unit tests.
   - However, web page is now broken.  Need to investigate modules further.
-  
+
+### Day 12: 15 November 2018
+  - Move mocha tests out of node.js and into a test runner web page.  The web page will run the tests
+    with the mocha library and display the results in the page.
+  - Clean up the src scripts to remove the module export and require().  They now load and run in a web page again.
