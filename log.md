@@ -61,3 +61,7 @@ My work is focussed on server-side development or back-end batch processing.  He
   - Move mocha tests out of node.js and into a test runner web page.  The web page will run the tests
     with the mocha library and display the results in the page.
   - Clean up the src scripts to remove the module export and require().  They now load and run in a web page again.
+
+### Day 13: 17 November 2018
+  - Adding a page to decode a GS1 barcode into separate fields.
+  - Start using Bootstrap to structure the HTML.
