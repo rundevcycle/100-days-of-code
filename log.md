@@ -65,3 +65,7 @@ My work is focussed on server-side development or back-end batch processing.  He
 ### Day 13: 17 November 2018
   - Adding a page to decode a GS1 barcode into separate fields.
   - Start using Bootstrap to structure the HTML.
+
+### Day 14: 19 November 2018
+  - Adding some more fields to the decoder page.
+  - Playing around with Revealing Module Pattern, but reverted changes.
