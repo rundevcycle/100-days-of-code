@@ -69,3 +69,6 @@ My work is focussed on server-side development or back-end batch processing.  He
 ### Day 14: 19 November 2018
   - Adding some more fields to the decoder page.
   - Playing around with Revealing Module Pattern, but reverted changes.
+
+### Day 15: 20 November 2018
+  - Add secondary purchase fields to the decoder page.
