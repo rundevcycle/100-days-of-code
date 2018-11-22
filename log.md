@@ -72,3 +72,8 @@ My work is focussed on server-side development or back-end batch processing.  He
 
 ### Day 15: 20 November 2018
   - Add secondary purchase fields to the decoder page.
+
+### Day 16: 21 November 2018
+  - Display all raw fields from the GS1 databar decoder.
+  - Start adding methods to format data for presentation.  I want to revisit the gs1Coupon class and rework it a bit.
+  
