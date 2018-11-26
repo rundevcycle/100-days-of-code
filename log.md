@@ -80,4 +80,8 @@ My work is focussed on server-side development or back-end batch processing.  He
 ### Day 17: 22 November 2018
   - Splitting logic for formatting GS1 values into a separate module.
   - Getting a better understanding of when to use modules and when to use pure POJO classes.
-  
+
+## Day 18: 25 November 2018
+  - Reviewing GS1 specs.
+  - Too tired to spend a lot of time tonight on this.
+
