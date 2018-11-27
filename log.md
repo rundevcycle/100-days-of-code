@@ -81,7 +81,11 @@ My work is focussed on server-side development or back-end batch processing.  He
   - Splitting logic for formatting GS1 values into a separate module.
   - Getting a better understanding of when to use modules and when to use pure POJO classes.
 
-## Day 18: 25 November 2018
+### Day 18: 25 November 2018
   - Reviewing GS1 specs.
   - Too tired to spend a lot of time tonight on this.
+
+### Day 19: 26 November 2018
+  - Adding a bit more logic to the GS1 formatter.
+  - I think it's time to move on to something else.  I want to learn JavaScript, not deal with application-specific logic that doesn't help with my goal.
 
