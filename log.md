@@ -89,3 +89,6 @@ My work is focussed on server-side development or back-end batch processing.  He
   - Adding a bit more logic to the GS1 formatter.
   - I think it's time to move on to something else.  I want to learn JavaScript, not deal with application-specific logic that doesn't help with my goal.
 
+### Day 20: 3 December 2018
+  - Back from vacation.  
+  - After reviewing where I left off, I decided to start with FreeCodeCamp and focus on the Javascript course there.
