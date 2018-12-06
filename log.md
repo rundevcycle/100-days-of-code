@@ -92,3 +92,9 @@ My work is focussed on server-side development or back-end batch processing.  He
 ### Day 20: 3 December 2018
   - Back from vacation.  
   - After reviewing where I left off, I decided to start with FreeCodeCamp and focus on the Javascript course there.
+
+### Day 21: 4 December 2018
+  - Continuing through the Javascript curriculum on FreeCodeCamp.
+
+### Day 22: 5 December 2018
+  - Continuing with FreeCodeCamp's Javascript course.
