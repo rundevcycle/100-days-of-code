@@ -98,3 +98,9 @@ My work is focussed on server-side development or back-end batch processing.  He
 
 ### Day 22: 5 December 2018
   - Continuing with FreeCodeCamp's Javascript course.
+
+### Day 23: 6 December 2018
+  - Finished the first chapter of the FreeCodeCamp Javascript course.
+  - Started the second chapter on ES6.
+  - Currently at 116 / 1,409 challenges.
+  
