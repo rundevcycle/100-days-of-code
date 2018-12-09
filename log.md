@@ -104,3 +104,7 @@ My work is focussed on server-side development or back-end batch processing.  He
   - Started the second chapter on ES6.
   - Currently at 116 / 1,409 challenges.
   
+### Day 24: 8 December 2018
+  - Finished the second chapter (ES6) of FreeCodeCamp's Javascript course.
+  - Next chapter is on regular expressions.
+  - Progress is 135/ 1,409 challenges.
