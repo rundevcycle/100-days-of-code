@@ -113,3 +113,8 @@ My work is focussed on server-side development or back-end batch processing.  He
   - Finished chapter on regular expressions in JS.
   - Next chapter is on debugging.
   - Completed 167 challenges.
+
+### Day 26: 12 December 2018
+  - Finished 4th chapter of JS module in FreeCodeCamp (Debugging).
+  - Moving on to the next chapter, about basic data structures.
+  - Discovered that GitHub doesn't show activity in the grid when a file is edited and committed directly in the browser.  Looks like it needs to pushed from a local copy to GitHub.
