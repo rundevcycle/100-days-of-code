@@ -117,4 +117,10 @@ My work is focussed on server-side development or back-end batch processing.  He
 ### Day 26: 12 December 2018
   - Finished 4th chapter of JS module in FreeCodeCamp (Debugging).
   - Moving on to the next chapter, about basic data structures.
+  - Completed 180 challenges.
   - Discovered that GitHub doesn't show activity in the grid when a file is edited and committed directly in the browser.  Looks like it needs to pushed from a local copy to GitHub.
+
+### Day 27: 14 December 2018
+  - Working through the Basic Data Structures chapter in the FreeCodeCamp JS module.  Completed first section covering arrays in more detail.
+  - Completed 191 challenges.
+  - Turns out that GitHub only shows activity for non-forked projects.  Oh well.
