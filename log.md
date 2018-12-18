@@ -124,3 +124,7 @@ My work is focussed on server-side development or back-end batch processing.  He
   - Working through the Basic Data Structures chapter in the FreeCodeCamp JS module.  Completed first section covering arrays in more detail.
   - Completed 191 challenges.
   - Turns out that GitHub only shows activity for non-forked projects.  Oh well.
+
+### Day 28: 17 December 2018
+  - Finished Basic Data Structures chapter of FreeCodeCamp JS module.
+  - Completed 199 challenges.
