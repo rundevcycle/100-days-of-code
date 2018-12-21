@@ -128,3 +128,8 @@ My work is focussed on server-side development or back-end batch processing.  He
 ### Day 28: 17 December 2018
   - Finished Basic Data Structures chapter of FreeCodeCamp JS module.
   - Completed 199 challenges.
+  
+### Day 29: 20 December 2018
+  - Finished Basic Algorithm Scripting and Object Oriented Programming chapters of the FreeCodeCamp JS module.
+  - Completed 241 challenges.
+  
