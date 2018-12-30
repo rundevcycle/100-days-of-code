@@ -133,3 +133,6 @@ My work is focussed on server-side development or back-end batch processing.  He
   - Finished Basic Algorithm Scripting and Object Oriented Programming chapters of the FreeCodeCamp JS module.
   - Completed 241 challenges.
   
+### Day 30: 29 December 2018
+  - Finished Functional Programming chapter of the FreeCodeCamp JS module.
+  - Completed 264 challenges.
