@@ -136,3 +136,8 @@ My work is focussed on server-side development or back-end batch processing.  He
 ### Day 30: 29 December 2018
   - Finished Functional Programming chapter of the FreeCodeCamp JS module.
   - Completed 264 challenges.
+  
+### Day 31: 30 December 2018
+  - Working through the intermediate algorithms of the FreeCodeCamp JS module.  
+  - Completed 270 challenges.
+  
